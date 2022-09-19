@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Iam Arul Xavier MERN Developer who can code in React , Redux and CSS in frontent, Node JS, MongoDB and Express in backend to build application.
+Iam Arul Xavier, MERN Developer who can code in React , Redux and CSS in frontent, Node JS, MongoDB and Express in backend to build application.
 <!--
 **arulxavierax/arulxavierax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

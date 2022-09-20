@@ -4,8 +4,8 @@
 
 Connect with me:
 -------
-[![icons8-linkedin-2-48](https://user-images.githubusercontent.com/103952018/191163080-c01a8df7-3aa4-422b-bbde-c86779b9544a.png)](https://www.linkedin.com/in/arul-xavier/)
 
+[![icons8-linkedin-2-48](https://user-images.githubusercontent.com/103952018/191163652-bc361749-5a1d-46e1-b577-f76b3c20ef6e.png)](https://user-images.githubusercontent.com/103952018/191163080-c01a8df7-3aa4-422b-bbde-c86779b9544a.png)](https://www.linkedin.com/in/arul-xavier)
 
 <!--
 **arulxavierax/arulxavierax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

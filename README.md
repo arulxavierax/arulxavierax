@@ -6,7 +6,6 @@ Connect with me:
 -------
 
 [![icons8-linkedin-2-48](https://user-images.githubusercontent.com/103952018/191163652-bc361749-5a1d-46e1-b577-f76b3c20ef6e.png)](https://www.linkedin.com/in/arul-xavier)
-[![icons8-mail-48](https://user-images.githubusercontent.com/103952018/191179375-08fa90de-7da6-4f4c-acf3-57ec6c4a7743.png)](<arulxavier2121@gmail.com>)
 
 
 Languages and Tools:

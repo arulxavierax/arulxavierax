@@ -20,6 +20,11 @@ Languages and Tools:
 ![icons8-express-js-48](https://user-images.githubusercontent.com/103952018/191165243-84c14ce9-cf4c-4995-ba4d-33d690c634c9.png)
 ![icons8-mongodb-a-cross-platform-document-oriented-database-program-48](https://user-images.githubusercontent.com/103952018/191165251-971dc6c2-b2f6-4232-a08f-e7b35c2b66d3.png)
 
+Github Stats :
+----
+
+![Arul GitHub stats](https://github-readme-stats.vercel.app/api?username=arulxavierax&show_icons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arulxavierax&layout=compact)](https://github.com/arulxavierax/github-readme-stats)
 <!--
 **arulxavierax/arulxavierax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,7 +4,7 @@
 
 Connect with me:
 -------
-![icons8-linkedin-2-48](https://user-images.githubusercontent.com/103952018/191163080-c01a8df7-3aa4-422b-bbde-c86779b9544a.png)
+[![icons8-linkedin-2-48](https://user-images.githubusercontent.com/103952018/191163080-c01a8df7-3aa4-422b-bbde-c86779b9544a.png)](https://www.linkedin.com/in/arul-xavier/)
 
 
 <!--

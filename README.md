@@ -1,6 +1,6 @@
-### Hi there 👋
+![github-header-image](https://user-images.githubusercontent.com/103952018/191162356-9f847128-2b8d-4567-8748-b25ce573f199.png)
 
-Iam Arul Xavier, MERN Developer who can code in React , Redux and CSS in frontent, Node JS, MongoDB and Express in backend to build application.
+***Iam Arul Xavier, MERN Developer who can code in React , Redux and CSS in frontent, Node JS, MongoDB and Express in backend to build application.***
 <!--
 **arulxavierax/arulxavierax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

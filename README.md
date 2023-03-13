@@ -18,7 +18,7 @@ Connect with me:
 
 
 Languages and Tools:
-----
+***
 
 ![icons8-html-5-48](https://user-images.githubusercontent.com/103952018/191165028-fd724b3d-0019-471e-bf4b-32656413c51e.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/103952018/191165121-13d7d62e-ae2c-4f5f-b533-7a3140697fc1.png)

@@ -15,9 +15,10 @@ Connect with me:
 
 [![icons8-linkedin-2-48](https://user-images.githubusercontent.com/103952018/191163652-bc361749-5a1d-46e1-b577-f76b3c20ef6e.png)](https://www.linkedin.com/in/arul-xavier)
 
+***
 
 Languages and Tools:
-***
+
 
 ![icons8-html-5-48](https://user-images.githubusercontent.com/103952018/191165028-fd724b3d-0019-471e-bf4b-32656413c51e.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/103952018/191165121-13d7d62e-ae2c-4f5f-b533-7a3140697fc1.png)
@@ -27,9 +28,9 @@ Languages and Tools:
 ![icons8-redux-48](https://user-images.githubusercontent.com/103952018/191165223-7a99b13d-40cd-4563-a4a1-ac442335a8d6.png)
 ![icons8-express-js-48](https://user-images.githubusercontent.com/103952018/191165243-84c14ce9-cf4c-4995-ba4d-33d690c634c9.png)
 ![icons8-mongodb-a-cross-platform-document-oriented-database-program-48](https://user-images.githubusercontent.com/103952018/191165251-971dc6c2-b2f6-4232-a08f-e7b35c2b66d3.png)
+***
 
 Github Stats :
-***
 
 ![Arul GitHub stats](https://github-readme-stats.vercel.app/api?username=arulxavierax&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arulxavierax&layout=compact)](https://github.com/arulxavierax/github-readme-stats)

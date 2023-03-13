@@ -12,7 +12,6 @@ Thank you for taking the time to read my introduction. I am excited to collabora
 ***
 
 Connect with me:
-****
 
 [![icons8-linkedin-2-48](https://user-images.githubusercontent.com/103952018/191163652-bc361749-5a1d-46e1-b577-f76b3c20ef6e.png)](https://www.linkedin.com/in/arul-xavier)
 

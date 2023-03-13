@@ -12,7 +12,7 @@ Thank you for taking the time to read my introduction. I am excited to collabora
 ***
 
 Connect with me:
--------
+****
 
 [![icons8-linkedin-2-48](https://user-images.githubusercontent.com/103952018/191163652-bc361749-5a1d-46e1-b577-f76b3c20ef6e.png)](https://www.linkedin.com/in/arul-xavier)
 
@@ -30,7 +30,7 @@ Languages and Tools:
 ![icons8-mongodb-a-cross-platform-document-oriented-database-program-48](https://user-images.githubusercontent.com/103952018/191165251-971dc6c2-b2f6-4232-a08f-e7b35c2b66d3.png)
 
 Github Stats :
-----
+***
 
 ![Arul GitHub stats](https://github-readme-stats.vercel.app/api?username=arulxavierax&show_icons=true&theme=midnight-purple)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arulxavierax&layout=compact)](https://github.com/arulxavierax/github-readme-stats)

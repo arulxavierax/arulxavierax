@@ -1,6 +1,14 @@
 ![github-header-image](https://user-images.githubusercontent.com/103952018/191162356-9f847128-2b8d-4567-8748-b25ce573f199.png)
 
-***Full Stack Web Developer who can code in React , Redux and CSS in frontent, Node JS, MongoDB and Express in backend to build application.***
+***Hi there!
+
+I am an experienced web developer with expertise in React, Redux, Node.js, Express, and MongoDB. I have a passion for building scalable and maintainable web applications using modern web technologies.
+
+As a creative problem solver, I have a keen eye for design and always strive to provide an enjoyable user experience. I am proficient in building responsive and mobile-friendly websites that work seamlessly across all devices.
+
+I believe that effective communication is key to the success of any project, and I am committed to working closely with my clients to understand their needs and deliver high-quality solutions.
+
+Thank you for taking the time to read my introduction. I am excited to collaborate with you and create outstanding web experiences using React, Redux, Node.js, Express, and MongoDB.***
 
 Connect with me:
 -------
